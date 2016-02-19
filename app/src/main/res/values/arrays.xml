@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country_name_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Ascension</item>
+        <item>Australia</item>
+        <item>Australian External Territories</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Azores</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivi</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+    </string-array>
+
+    <integer-array name="country_code_array">
+        <item>93</item>
+        <item>355</item>
+        <item>21</item>
+        <item>684</item>
+        <item>376</item>
+        <item>244</item>
+        <item>1264</item>
+        <item>1268</item>
+        <item>54</item>
+        <item>374</item>
+        <item>297</item>
+        <item>247</item>
+        <item>61</item>
+        <item>672</item>
+        <item>43</item>
+        <item>994</item>
+        <item>351</item>
+        <item>1242</item>
+        <item>973</item>
+        <item>880</item>
+        <item>1246</item>
+        <item>375</item>
+        <item>32</item>
+        <item>501</item>
+        <item>229</item>
+        <item>1441</item>
+        <item>975</item>
+        <item>591</item>
+        <item>387</item>
+        <item>55</item>
+        <item>1284</item>
+        <item>673</item>
+        <item>359</item>
+        <item>226</item>
+        <item>257</item>
+        <item>855</item>
+    </integer-array>
+</resources>
